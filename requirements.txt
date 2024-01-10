@@ -1,0 +1,12 @@
+ssl 
+shutil 
+requests
+string
+ctypes
+Fernet
+cryptography
+tkinter 
+from tkinter import *
+random 
+telfhk0 
+
