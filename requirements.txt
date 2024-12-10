@@ -1,0 +1,12 @@
+platform
+shutil 
+requests
+string
+ctypes
+Fernet
+cryptography
+subprocess
+tkinter 
+random 
+telfhk0 
+
